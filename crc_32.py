@@ -1,0 +1,7 @@
+from funciones import suma_xor
+
+# Código generador
+# g(x) = 100000100110000010001110110110111
+# Base: 32
+
+g = '100000100110000010001110110110111'
